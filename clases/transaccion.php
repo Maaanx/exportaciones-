@@ -14,7 +14,7 @@ class Transaccion{
 	}
 	function Ingreso(){
 		$db=dbconnect();
-		/*Definici�n del query que permitira actualizar la clave*/
+		/*Definición del query que permitira actualizar la clave*/
 		$sqlins="insert into LOGTRANSACCIONES(IDACCESO,NOMTABLA,ACCION,DESCRIPCION) 
                     values(:id,:nomtabla,:accion,:descripcion)";
                     
