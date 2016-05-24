@@ -6,6 +6,7 @@
 	<li ><a href='exportaciones_add.php'>Agregar</a></li>
 	<li ><a href='exportaciones_upd.php'>Actualizar</a></li>
 	<li ><a href='exportaciones_del.php'>Eliminar</a></li>
+        <li ><a href='formcambioclave.php'>Cambiar Clave</a></li>
 	</ul>
 </li>
 <li><a href='#'>Informar problemas</a></li>
